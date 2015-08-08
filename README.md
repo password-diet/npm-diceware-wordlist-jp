@@ -1,4 +1,4 @@
-diceware-wordlist-en
+diceware-wordlist-jp
 =========
 
 A japanese wordlist for the diceware password generation method
@@ -10,4 +10,4 @@ A japanese wordlist for the diceware password generation method
 ## Usage
 
   var dw_jp = require('diceware-wordlist-jp');  
-  dw_en['34553'];		# 'kenshi'
+  dw_jp['34553'];		# 'kenshi'
